@@ -22,7 +22,7 @@
 </p>
 ![image](https://github.com/AminSojoudi/CafeBazarSoomlaBaseProject/blob/master/4.jpg)
 <p style='text-align: right;' dir="rtl" >
-شناسه کالا ای که انتخاب می کنید بعدا باید در یونیتی وارد شود .
+شناسه کالا ای که انتخاب می کنید باید در یونیتی در کلاس StoreAssets.cs وارد شود .(در این پروژه عبارت “FullVersion” وجود دارد و نیازی به اضافه کردن چیزی نیست اگر از همین نام برای شناسه کالای خود استفاده می کنید)
 <br>
 قیمت محصول را نیز همین جا تعیین می کنید .
 <br>
